@@ -1,20 +1,38 @@
-# 🐍 Python Practice  by Deepu
-# 🐍 Python Practice by Deepu
+# 🌸 Hi, I'm Deepu!
 
-Hi! I'm Deepu 💖 and this is where I practice Python every day.  
-I'm learning it step by step like a 7-year-old child — slowly but smartly! 😄
+🎓 Soon-to-be BTech student in **CSE - AI & ML**  
+🧠 Learning **Python, GitHub, and mini projects** on my phone using Pydroid  
+🌟 Dream: Become a software engineer with a 💥 40 LPA placement  
+📍 Andhra Pradesh, India  
+🌱 Right now: Practicing daily and building small projects!
 
-## 📚 Day-wise Practice
+---
 
-- ✅ Day 1: `print()`, variables, basic strings
-- ✅ Day 2: `input()`, math with age, data types
-- ✅ Day 3: `if-else`, age checker
-- ✅ Day 4: comparison operators, mini conditions
+### 🔧 Languages & Tools I'm Learning:
+- 🐍 Python
+- 📱 Pydroid (on mobile!)
+- 💻 GitHub (yes, from scratch!)
+- 📄 Markdown
+- 🧠 Logic & Problem Solving
 
-I'll update this repo regularly with all my daily lessons, mini projects, and cool Python codes! 🚀
+---
 
-## 🌱 Goal
+### 💼 Mini Projects I'm working on:
+- 🔢 Age Calculator  
+- 🧮 Simple Calculator  
+- 🎯 Guess the Number Game  
+- 📝 To-do List (coming soon!)
 
-Learn Python fully, build mini projects, and become a GitHub star ⭐ — all before college placements.
+---
 
-Stay tuned! 💪
+### 📚 My Current Goals:
+- ✅ Finish Python Basics in 21 days  
+- ✅ Upload all code on GitHub  
+- 🚀 Learn how to build real apps  
+- 💼 Build a strong portfolio
+
+---
+
+### 🌟 Fun Fact:
+Even though I haven’t started college yet, I’ve already begun my tech journey!  
+Hard work > Luck. Watch me grow 💪
