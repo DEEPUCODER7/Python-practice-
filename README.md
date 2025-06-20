@@ -35,4 +35,4 @@
 
 ### 🌟 Fun Fact:
 Even though I haven’t started college yet, I’ve already begun my tech journey!  
-Hard work > Luck. Watch me grow 💪
+Hard work > Luck. Watch me grow 💪 
